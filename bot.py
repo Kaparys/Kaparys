@@ -332,7 +332,7 @@ class Bot(GroupMixin, discord.Client):
 
         Parameters
         ------------
-        delete_after: float
+        delete_after: none
             Number of seconds to wait before automatically deleting the
             message.
 
